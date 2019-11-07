@@ -1,0 +1,2 @@
+include ':app', ':getmessage', ':common'
+rootProject.name='DataTransfer'
